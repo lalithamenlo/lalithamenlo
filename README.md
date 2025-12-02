@@ -13,11 +13,11 @@
 <!-- Pastel Pink Background Section -->
 <div style="background-color:#FFE4EC; padding:20px; border-radius:10px;">
 
-# 👩‍💻 Sri Lalitha Gudiseva
+#  Sri Lalitha Gudiseva 👩‍💻
 
 **Frontend Developer | UI Enthusiast | Accessibility Advocate**
 
-📧 lalitha.menlo@gmail.com  
+
 ---
 
 ## 🌸 About Me
@@ -25,6 +25,16 @@
 Hi there! I'm **Sri Lalitha**, a passionate frontend developer crafting responsive, accessible, and user-centric web applications. I thrive in fast-paced environments and love turning complex problems into elegant solutions.
 
 I specialize in **React, Tailwind CSS, Accessibility (WCAG AA)**, and modern UI frameworks. Whether it's building scalable systems or collaborating across teams, I bring precision, creativity, and empathy to every project.
+
+---
+
+## 🌟 What I Do
+
+- Build responsive, mobile-first websites & apps  
+- Integrate APIs and backend systems  
+- Optimize performance and accessibility  
+- Collaborate with designers using Figma  
+- Practice TDD with Jest and CI/CD pipelines  
 
 ---
 
@@ -106,24 +116,22 @@ I specialize in **React, Tailwind CSS, Accessibility (WCAG AA)**, and modern UI 
 ![SCRUM](https://img.shields.io/badge/-SCRUM-36C5F0?style=flat)
 ---
 
-## 🌟 What I Do
-
-- Build responsive, mobile-first websites & apps  
-- Integrate APIs and backend systems  
-- Optimize performance and accessibility  
-- Collaborate with designers using Figma  
-- Practice TDD with Jest and CI/CD pipelines  
-
----
-
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-lalitha-3227a4160/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="background-color:#FFD1DC; border-radius:50%; padding:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" 
+         style="background-color:#FFD1DC; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://github.com/lalithamenlo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="background-color:#FFD1DC; border-radius:50%; padding:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" 
+         style="background-color:#FFD1DC; border-radius:50%; padding:5px;"/>
+  </a>
+  <a href="mailto:lalitha.menlo@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Email" width="40" 
+         style="background-color:#FFD1DC; border-radius:50%; padding:5px;"/>
   </a>
 </p>
 
