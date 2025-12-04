@@ -13,7 +13,7 @@
 <!-- Pastel Pink Background Section -->
 <div style="background-color:#FFE4EC; padding:20px; border-radius:10px;">
 
-#  Sri Lalitha 👩‍💻
+#  Sri Lalitha 👩‍💻   <a href="https://lalithamenlo.vercel.app/">Portfolio</a>
 
 **Frontend Developer | UI Enthusiast | Accessibility Advocate**
 
